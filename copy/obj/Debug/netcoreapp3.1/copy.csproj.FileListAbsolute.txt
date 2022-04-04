@@ -1,0 +1,15 @@
+G:\project\copy\bin\Debug\netcoreapp3.1\copy.exe
+G:\project\copy\bin\Debug\netcoreapp3.1\copy.deps.json
+G:\project\copy\bin\Debug\netcoreapp3.1\copy.runtimeconfig.json
+G:\project\copy\bin\Debug\netcoreapp3.1\copy.runtimeconfig.dev.json
+G:\project\copy\bin\Debug\netcoreapp3.1\copy.dll
+G:\project\copy\bin\Debug\netcoreapp3.1\copy.pdb
+G:\project\copy\obj\Debug\netcoreapp3.1\copy.csproj.AssemblyReference.cache
+G:\project\copy\obj\Debug\netcoreapp3.1\copy.Form1.resources
+G:\project\copy\obj\Debug\netcoreapp3.1\copy.csproj.GenerateResource.cache
+G:\project\copy\obj\Debug\netcoreapp3.1\copy.AssemblyInfoInputs.cache
+G:\project\copy\obj\Debug\netcoreapp3.1\copy.AssemblyInfo.cs
+G:\project\copy\obj\Debug\netcoreapp3.1\copy.csproj.CoreCompileInputs.cache
+G:\project\copy\obj\Debug\netcoreapp3.1\copy.dll
+G:\project\copy\obj\Debug\netcoreapp3.1\copy.pdb
+G:\project\copy\obj\Debug\netcoreapp3.1\copy.genruntimeconfig.cache
